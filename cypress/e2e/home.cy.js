@@ -6,5 +6,3 @@ describe("Página Home", () => {
     cy.contains("Bem-vindo ao Projeto React!");
   });
 });
-
-npm.start();
